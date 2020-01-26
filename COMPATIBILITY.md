@@ -271,7 +271,7 @@ This library is verified to work with following banks.
 - [ ] Märkische Bank
 - [ ] Merck Finck & Co.
 - [ ] Merkur Bank
-- [ ] Mittelbrandenburgische Sparkasse in Potsdam
+- [x] Mittelbrandenburgische Sparkasse in Potsdam
 - [ ] MKB Mittelstandskreditbank Aktiengesellschaft
 - [x] MLP Finanzdienstleistungen
 - [ ] MLP Finanzdienstleistungen Zw CS
